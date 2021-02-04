@@ -1,6 +1,6 @@
 ## 铁资网|铁血联盟资讯网 关站声明
 
-```markdown
+### 关站声明
 
 这天下，果真少有不散的宴席。
 
@@ -37,14 +37,6 @@
 感谢各位朋友的一路相伴，
 我们或许还可以相逢在其他媒体的荫庇之下。
 
-```
+### 交流反馈
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lejardo/lejardo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 腾讯QQ群 「铁资网 | 综合游戏讨论」：102602115
